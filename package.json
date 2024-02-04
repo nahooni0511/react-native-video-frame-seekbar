@@ -1,0 +1,58 @@
+{
+  "name": "react-native-video-frame-seekbar",
+  "version": "0.0.2",
+  "description": "A custom React Native seekbar component that provides thumbnail preview frames for video content, enhancing user experience in video navigation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahooni0511/react-native-video-frame-seekbar.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "video",
+    "frame",
+    "seekbar",
+    "thumbnail",
+    "preview",
+    "navigation"
+  ],
+  "author": "nahooni0511",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nahooni0511/react-native-video-frame-seekbar/issues"
+  },
+  "homepage": "https://github.com/nahooni0511/react-native-video-frame-seekbar#readme",
+  "source": "index",
+  "files": [
+    "lib/**/*",
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@babel/preset-env": "^7.20.0",
+    "@babel/runtime": "^7.20.0",
+    "@react-native/eslint-config": "^0.72.2",
+    "@react-native/metro-config": "^0.72.9",
+    "react": "18.2.0",
+    "react-native": "0.72.3",
+    "@tsconfig/react-native": "^3.0.0",
+    "@types/react": "^18.2.0",
+    "typescript": "4.8.4",
+    "babel-jest": "^29.2.1",
+    "eslint": "^8.19.0",
+    "jest": "^29.2.1",
+    "metro-react-native-babel-preset": "0.76.7",
+    "prettier": "^2.4.1"
+  }
+}
